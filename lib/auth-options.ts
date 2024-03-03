@@ -28,6 +28,6 @@ export const authOptions: NextAuthOptions = {
 		}),
 	],
 	pages: {
-		signIn: "/", //sigin page
+		signIn: "/login", //sigin page
 	},
 };
